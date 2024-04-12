@@ -1,0 +1,4 @@
+Osu,Gadiel,10
+StarRail,Angello,0
+Brave,Doris,-20
+LoL,Juan,-10
